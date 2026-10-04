@@ -1,0 +1,23 @@
+[
+  {
+    "id": "V001",
+    "usuario_id": "U001",
+    "producto_id": "P001",
+    "fecha": "2026-10-04 01:25:03",
+    "total": 8.5
+  },
+  {
+    "id": "V002",
+    "usuario_id": "U003",
+    "producto_id": "P003",
+    "fecha": "2026-10-04 01:25:14",
+    "total": 10.0
+  },
+  {
+    "id": "V003",
+    "usuario_id": "U002",
+    "producto_id": "P004",
+    "fecha": "2026-10-04 01:25:29",
+    "total": 2.5
+  }
+]
